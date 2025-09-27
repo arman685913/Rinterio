@@ -51,7 +51,6 @@ Rinterio/
 
 1. Clone the repository:
 
-```bash
 git clone https://github.com/arman685913/Rinterio.git
 
 2. Navigate to the project directory:
@@ -64,22 +63,16 @@ License
 
 This project is open for personal use and educational purposes. For commercial use, please contact the creator.
 
-Author
 
-Arman Farazi
-GitHub Profile
+## Screenshots
 
-Live Website
-
-Screenshots
-
-
+![Home](assets/banner.png)
 ---
 
-I can also **enhance it with badges, live screenshots, and more professional styling** to make it look very modern and GitHub-ready.  
+## Author
 
-Do you want me to do that?
+**Arman Farazi**  
+[GitHub Profile](https://github.com/arman685913)  
+[Live Website](https://arman685913.github.io/Rinterio/)
 
-
-
-
+---
